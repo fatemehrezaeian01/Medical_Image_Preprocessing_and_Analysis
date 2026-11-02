@@ -28,7 +28,7 @@
 	•	Matplotlib
 	•	Pillow (PIL)
 	•	Pandas
-    •   os module
+       •   os module
 	•	Jupyter Notebook
 
 ## Results and Observations
