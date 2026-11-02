@@ -10,6 +10,7 @@
 **Dataset Source:** [Brain Tumor Detection Dataset](https://github.com/ahmedhamada0/Brain-Tumor-Detection)
 
 Images were selected from the Training folder.
+
 5 Healthy images and 5 Tumor images were used.
 
 ## Preprocessing Methods
