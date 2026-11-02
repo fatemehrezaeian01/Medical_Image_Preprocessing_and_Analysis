@@ -23,13 +23,13 @@
    5. **Contrast Enhancement:** Increased image contrast using a factor of 1.5.
 
 ## Tools and Libraries
-	•	Python
-	•	NumPy
-	•	Matplotlib
-	•	Pillow (PIL)
-	•	Pandas
-       •   os module
-	•	Jupyter Notebook
+•	Python
+•	NumPy
+•	Matplotlib
+•	Pillow (PIL)
+•	Pandas
+•   os module
+•	Jupyter Notebook
 
 ## Results and Observations
 
